@@ -1,4 +1,7 @@
-##### 김영재 👋
+# Introduce 👋
+
+세종대학교 소프트웨어학과 18학번 김영재입니다.
+
 
 <!--
 **YoungJae98/YoungJae98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
