@@ -1,12 +1,6 @@
 ### Introduce 
 
-세종대 소프트웨어학과
-
-포항공대 인공지능대학원 석사과정
-
-연구분야 : 다국어 음성합성 
-
-
+I'm interested in Speech AI especially in TTS
 <!--
 **YoungJae98/YoungJae98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
